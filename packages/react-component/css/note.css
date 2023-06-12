@@ -1,0 +1,10 @@
+.actions{
+    display: flex;
+    gap: 15px;
+    justify-content: end;
+}
+
+.note{
+    width: 500px;
+    white-space: pre-line;
+}

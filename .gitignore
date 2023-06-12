@@ -1,0 +1,12 @@
+.venv
+node_modules
+teacher/stack/.env.*
+dist
+packages/*/package-lock.json
+share/db.db
+teacher/auth/back/vendor
+subject/*/chai/package-lock.json
+packages/express-middleware/package-lock.json
+.env
+subjects/note/swagger/swagger.yml
+complementCours.md

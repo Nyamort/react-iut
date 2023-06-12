@@ -1,0 +1,16 @@
+.panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    gap: 15px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    min-width: 25%;
+    max-width: 80%;
+    gap: 15px;
+    white-space: pre-line;
+}
